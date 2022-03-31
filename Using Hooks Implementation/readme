@@ -1,0 +1,6 @@
+Hooks Implementation:
+-----------------------
+Step1: Create HooksImplementation class under steps package
+Step2: Create methods preCondition() and postCondition()
+Step3: Apply @Before and @After annotations for pre and post methods respectively
+Step4: HooksImplementation should extends BaseClass
