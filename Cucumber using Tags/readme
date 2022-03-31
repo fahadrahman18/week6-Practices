@@ -1,1 +1,7 @@
+Cucumber
 
+Run the test cases by using tags
+
+Each test cases created the tags
+
+In this case, Run all the @smoke and @sanity test scenarios using tags attribute in the @CucumberOptions
