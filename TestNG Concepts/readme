@@ -1,5 +1,11 @@
 TESTNG Concepts
 
+RunTest under Runner package - public class RunTests extends BaseClass 
+BaseClass under steps package - public class BaseClass extends AbstractTestNGCucumberTests 
+
+
+
+
 Implementation of TestNG Annotation instead of Hooks:
 -----------------------------------------------------
 Step1: Create methods preCondition() and postCondition()
