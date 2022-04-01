@@ -1,0 +1,8 @@
+TESTNG Concepts
+
+Implementation of TestNG Annotation instead of Hooks:
+-----------------------------------------------------
+Step1: Create methods preCondition() and postCondition()
+Step2: Apply @BeforeMethod and @AfterMethod annotations for pre and post methods respectively in the BaseClass
+Step3: RunTest should extends BaseClass
+Step4: BaseClass should extends AbstractTestNGCucumberTests
